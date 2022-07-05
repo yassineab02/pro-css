@@ -1,0 +1,56 @@
+body{
+    background-image: url("./jj.jpeg");
+    text-align: center;
+}
+
+header{
+    background-color: rgb(6, 181, 245);
+    width:100%;
+    position:fixed;
+    top:0px;
+    left:0px;
+    height:50px;
+    padding-top:50px;
+    box-shadow: 10px 5px 500px 5px rgb(7, 22, 235);
+    font-family:'Courier New';
+  
+}
+a {
+    text-decoration:solid;
+    font-weight:bolder;
+    margin-left: 150px;
+
+  }
+body{
+    margin-left:0px;
+    margin-right:0px;}
+  main{
+    padding-top:100px;
+    margin-top: 100px;
+    margin: auto;
+    padding-left: 100px;
+    padding-right: 100px;
+    text-align: center;
+    background-color: rgb(202, 202, 199);
+  }
+  #pro{
+    border-radius: 50%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+h2{
+    color: blue;
+}
+h4{
+    color: rgb(0, 0, 108);
+}
+ul{
+    list-style: none;
+}
+.links{
+font-family: 'Courier New', Courier, monospace;
+font-weight:bolder;
+font-size: 24px;
+}
+main:hover{
+    background-color: rgb(171, 171, 171);
+}
